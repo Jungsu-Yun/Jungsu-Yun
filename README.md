@@ -20,3 +20,4 @@ Tech Stack
 	<img src="https://img.shields.io/badge/SQLServer-3766AB?sytle=flat-square&logo=MicrosoftSQLServer&logoColor=white"/>
 </p>
 
+![Jungsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungSu-Yun&show_icons=true&theme=radical)
