@@ -20,5 +20,7 @@ Tech Stack
 	<img src="https://img.shields.io/badge/SQLServer-3766AB?sytle=flat-square&logo=MicrosoftSQLServer&logoColor=white"/>
 </p>
 
-![Jungsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungSu-Yun&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungSu-Yun&layout=compact)](https://github.com/JungSu-Yun/github-readme-stats)
+<p align="center" href="https://github.com/JungSu-Yun/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=JungSu-Yun&show_icons=true&theme=radical" /></p>
+<p align="center" href="https://github.com/JungSu-Yun/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JungSu-Yun&langs_count=5" /></p>
