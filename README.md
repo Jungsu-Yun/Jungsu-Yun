@@ -21,3 +21,4 @@ Tech Stack
 </p>
 
 ![Jungsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungSu-Yun&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungSu-Yun&layout=compact)](https://github.com/JungSu-Yun/github-readme-stats)
